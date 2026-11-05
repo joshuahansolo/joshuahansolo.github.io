@@ -1,0 +1,5 @@
+# Private: the CV PDF contains a phone number. Never publish.
+HAN_JOSHUA_RESUME.pdf
+*.pdf
+.DS_Store
+.env
